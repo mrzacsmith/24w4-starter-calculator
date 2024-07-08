@@ -16,8 +16,8 @@ To run this project, you only need a web browser.
 2. **Clone the Repository**
    - Clone the forked repository to your local machine:
      ```bash
-     git clone https://github.com/YOUR-USERNAME/simple-calculator.git
-     cd simple-calculator
+     git clone https://github.com/YOUR-USERNAME/24w4-starter-calculator.git
+     cd 24w4-starter-calculator
      ```
 
 3. **Commit Regularly**
