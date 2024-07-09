@@ -4,13 +4,13 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: linear-gradient(tomato, palevioletred, indianred, chocolate, gold, burlywood, lightyellow,  lemonchiffon, indianred );
+  background: linear-gradient(black, midnightblue, royalblue, darkturquoise,darkturquoise, powderblue, lemonchiffon,  lemonchiffon, lavenderblush);
   margin: 0;
 }
 
 
 .calculator {
-  background-color: hotpink;
+  background-color: steelblue;
   box-shadow: 0 0 20px black;
   padding: 20px;
   border-radius: 20px;
@@ -23,9 +23,9 @@ body {
   margin-bottom: 10px;
   padding: 10px;
   box-shadow: 0 0 20px cadetblue;
-  background-color: lightsalmon;
+  background-color: lightsteelblue;
   box-shadow: 0 0 20px black;
-  color: darkgoldenrod;
+  color: aquamarine;
   border-radius: 5px;
   text-align: right;
 }
@@ -42,9 +42,9 @@ body {
   padding: 20px;
   font-size: 3em;
   border: none;
-  box-shadow: 0 0 20px khaki;
-  background-color: palevioletred;
-  color: lightpink;
+  box-shadow: 0 0 20px saddlebrown;
+  background-color: lightcyan;
+  color: darkkhaki;
   border-radius: 5px;
   cursor: pointer;
 }
@@ -54,7 +54,7 @@ body {
 }
 
 .btn-clear {
-  background-color: darksalmon;
+  background-color: sienna;
 }
 
 .btn-clear:hover {
