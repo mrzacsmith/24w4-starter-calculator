@@ -1,51 +1,60 @@
 body {
-  display: flex;
+  display: grid;
+  box-shadow: 0 0 20px cadetblue;
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #f0f0f0;
+  background: linear-gradient(indianred, darkslateblue, thistle);
   margin: 0;
 }
 
+
 .calculator {
-  background-color: #fff;
+  background-color: hotpink;
+  box-shadow: 0 0 20px black;
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 20px greys;
 }
 
 .display {
-  font-size: 2em;
+  font-size: 6em;
+  font-family: 'Courier New', Courier, monospace;
   margin-bottom: 10px;
   padding: 10px;
-  background-color: #333;
-  color: #fff;
+  box-shadow: 0 0 20px cadetblue;
+  background-color: lightsalmon;
+  box-shadow: 0 0 20px black;
+  color: darkgoldenrod;
   border-radius: 5px;
   text-align: right;
 }
 
 .buttons {
   display: grid;
+  box-shadow: 0 0 20px grey;
   grid-template-columns: repeat(4, 1fr);
+  box-shadow: 0 0 20px grey;
   gap: 10px;
 }
 
 .btn {
   padding: 20px;
-  font-size: 1.5em;
+  font-size: 3em;
   border: none;
-  background-color: #333;
-  color: #fff;
+  box-shadow: 0 0 20px khaki;
+  background-color: palevioletred;
+  color: lightpink;
   border-radius: 5px;
   cursor: pointer;
 }
 
 .btn:hover {
-  background-color: #555;
+  background-color: thistle;
 }
 
 .btn-clear {
-  background-color: #28a745;
+  background-color: darksalmon;
 }
 
 .btn-clear:hover {
