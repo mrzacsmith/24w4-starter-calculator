@@ -4,7 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: linear-gradient(indianred, darkslateblue, thistle);
+  background: linear-gradient(tomato, palevioletred, indianred, chocolate, gold, burlywood, lightyellow,  lemonchiffon, indianred );
   margin: 0;
 }
 
@@ -13,13 +13,13 @@ body {
   background-color: hotpink;
   box-shadow: 0 0 20px black;
   padding: 20px;
-  border-radius: 10px;
+  border-radius: 20px;
   box-shadow: 0 0 20px greys;
 }
 
 .display {
-  font-size: 6em;
-  font-family: 'Courier New', Courier, monospace;
+  font-size: 9em;
+  font-family: monospace;
   margin-bottom: 10px;
   padding: 10px;
   box-shadow: 0 0 20px cadetblue;
