@@ -23,4 +23,7 @@ Couple or few sentences on what you learned.
 
 ## REFERENCES
 
-- [Instructions for setup](https://whatever.com)
+- [Calculator HTML](https://github.com/mrzacsmith/24w4-starter-calculator/blob/main/index.html)
+- [Calculator JavaScript](https://github.com/mrzacsmith/24w4-starter-calculator/blob/main/index.html)
+
+  #### Contact mrzacsmith::zac@codeshock.dev
